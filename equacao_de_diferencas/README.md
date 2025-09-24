@@ -1,4 +1,4 @@
-# Equações de diferença - Cálculo 💻📊
+# Equações de diferenças - Cálculo 💻📊
 
 ## 📒 Descrição
 Este código gera aplica uma equação de diferenças em um problema simples.
